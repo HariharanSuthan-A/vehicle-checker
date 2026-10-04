@@ -1,13 +1,13 @@
-# 🚔 Vehicle Checker — License Plate Detector
+# 🚔 Vehicle Entry Checker — License Plate Detector
 
-An AI-powered Streamlit app that detects and logs license plates from **bikes/motorcycles** and **cars/trucks** using custom YOLOv8 models.
+A deployed Streamlit app that detects and logs license plates from **bikes/motorcycles** and **cars/trucks** using custom YOLOv8 models.
 
 ---
 
 ## 🚀 Features
 
 - 🤖 **Two YOLO models** — switch between bike and car/truck detection
-- 🖼️ **Sample images** — pre-loaded test images for each vehicle type
+- 🖼️ **Sample images** — pre-loaded test images for each vehicle type (Only for experimental purpose)
 - 📤 **Upload your own image** — JPG, PNG, WEBP supported
 - 🪪 **Plate cropping** — automatically crops each detected plate
 - 📋 **Detection log table** — stores every result with date, time, confidence & plate thumbnail
